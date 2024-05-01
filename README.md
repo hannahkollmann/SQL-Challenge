@@ -24,3 +24,5 @@ For this project, you’ll design the tables to hold the data from the CSV files
 6. List each employee in the Sales department, including their employee number, last name, and first name.
 7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
+References: For this assignment, help was provided by https://github.com/Deving789/Pewlett-Hackard-Analysis/blob/master/data_folder.sql in attempts to correctly identify all Primary and Foreign Keys. Also, used AskBCS Learning Assistants and classmates for further assistance. 
